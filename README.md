@@ -4,6 +4,15 @@
 
 Mind Vault is a sophisticated AI-driven knowledge transfer system designed to automate employee onboarding and handover processes by extracting, processing, and making searchable knowledge from enterprise documents and tools. This system transforms unstructured project data into actionable, searchable knowledge that accelerates team productivity and preserves institutional memory.
 
+<img width="1897" height="840" alt="image" src="https://github.com/user-attachments/assets/3143165b-b8ac-4128-a698-66cabf40da29" />
+<img width="1871" height="828" alt="image" src="https://github.com/user-attachments/assets/7f9caf54-006a-417a-abf8-fd3c1f793834" />
+<img width="1870" height="843" alt="image" src="https://github.com/user-attachments/assets/803edba2-fc76-441a-be54-52b0d5df8f61" />
+<img width="1886" height="808" alt="image" src="https://github.com/user-attachments/assets/899f6c43-c2d0-4135-a3e4-08d8fa122375" />
+<img width="1871" height="848" alt="image" src="https://github.com/user-attachments/assets/a29e3405-b2b4-4de1-8a21-2ea0ba0e80a4" />
+<img width="1878" height="835" alt="image" src="https://github.com/user-attachments/assets/97a815bd-c9ed-4e82-998f-cb6f3854d312" />
+<img width="1885" height="839" alt="image" src="https://github.com/user-attachments/assets/62073827-406b-4974-b8ca-c94a7849b35c" />
+<img width="1877" height="841" alt="image" src="https://github.com/user-attachments/assets/36dbea57-0773-419e-af0f-74274d433877" />
+
 ## 🎯 Core Problem Solved
 
 - **Knowledge Loss Prevention**: Prevents tribal knowledge from being lost during employee transitions
